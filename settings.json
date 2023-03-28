@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "deviceName": "smasungS8",
+  "platformVersion": "8",
+  "udid": "9887b741375a454d57",
+  "noReset": true,
+  "appPackage": "com.fisher_price.android",
+  "appActivity": "com.mattel.cartwheel.ui.activity.MainView",
+  "ensureWebviewsHavePages": true
+}

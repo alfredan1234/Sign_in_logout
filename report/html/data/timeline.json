@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GZ-DTC-0284",
+    "children" : [ {
+      "name" : "10896-MainThread",
+      "children" : [ {
+        "name" : "sign in and then logout",
+        "uid" : "b1c395789f4dd482",
+        "parentUid" : "f2442399239a022c4521377df27a6aff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629965648311,
+          "stop" : 1629965696798,
+          "duration" : 48487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2442399239a022c4521377df27a6aff"
+    } ],
+    "uid" : "6d3adbe4b35835300b44a36f95f64c7f"
+  } ]
+}

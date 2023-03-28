@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.login_logout",
+    "children" : [ {
+      "name" : "sign in and then logout",
+      "uid" : "b1c395789f4dd482",
+      "parentUid" : "541305d19ce8ffb9e52003450d496358",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629965648311,
+        "stop" : 1629965696798,
+        "duration" : 48487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.login_logout"
+  } ]
+}

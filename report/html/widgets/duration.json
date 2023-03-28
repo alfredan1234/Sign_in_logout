@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b1c395789f4dd482",
+  "name" : "sign in and then logout",
+  "time" : {
+    "start" : 1629965648311,
+    "stop" : 1629965696798,
+    "duration" : 48487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
